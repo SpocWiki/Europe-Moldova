@@ -133,12 +133,17 @@ Capital :: [[Chisinau]]
 [has_place_latitude::47] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova|Moldova]] 
-- [[../../../../../_public/geo/Continent/Europe/Europe~East/Moldova.public|Moldova.public]] 
-- [[../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova.internal|Moldova.internal]] 
-- [[../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova.protect|Moldova.protect]] 
-- [[../../../../../_private/geo/Continent/Europe/Europe~East/Moldova.private|Moldova.private]] 
-- [[../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova.personal|Moldova.personal]] 
-- [[../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova.secret|Moldova.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.secret.md)
+

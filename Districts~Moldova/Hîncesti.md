@@ -40,11 +40,16 @@ markerFolder: ./Hîncesti/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti|Hîncesti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.public|Hîncesti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.internal|Hîncesti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.protect|Hîncesti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.private|Hîncesti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.personal|Hîncesti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Hîncesti.secret|Hîncesti.secret]] 
+
+### [Hîncesti.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaHîncesti.public.md) 
+
+### [Hîncesti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaHîncesti.internal.md) 
+
+### [Hîncesti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaHîncesti.protect.md) 
+
+### [Hîncesti.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaHîncesti.private.md) 
+
+### [Hîncesti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaHîncesti.personal.md) 
+
+### [Hîncesti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaHîncesti.secret.md)
 

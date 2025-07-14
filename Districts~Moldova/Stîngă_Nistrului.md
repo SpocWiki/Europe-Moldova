@@ -40,11 +40,16 @@ markerFolder: ./Stîngă_Nistrului/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului|Stîngă_Nistrului]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului.public|Stîngă_Nistrului.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului.internal|Stîngă_Nistrului.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului.protect|Stîngă_Nistrului.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului.private|Stîngă_Nistrului.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului.personal|Stîngă_Nistrului.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Stîngă_Nistrului.secret|Stîngă_Nistrului.secret]] 
+
+### [Stîngă_Nistrului.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaStîngă_Nistrului.public.md) 
+
+### [Stîngă_Nistrului.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaStîngă_Nistrului.internal.md) 
+
+### [Stîngă_Nistrului.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaStîngă_Nistrului.protect.md) 
+
+### [Stîngă_Nistrului.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaStîngă_Nistrului.private.md) 
+
+### [Stîngă_Nistrului.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaStîngă_Nistrului.personal.md) 
+
+### [Stîngă_Nistrului.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaStîngă_Nistrului.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Criuleni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni|Criuleni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni.public|Criuleni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni.internal|Criuleni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni.protect|Criuleni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni.private|Criuleni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni.personal|Criuleni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Criuleni.secret|Criuleni.secret]] 
+
+### [Criuleni.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCriuleni.public.md) 
+
+### [Criuleni.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCriuleni.internal.md) 
+
+### [Criuleni.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCriuleni.protect.md) 
+
+### [Criuleni.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCriuleni.private.md) 
+
+### [Criuleni.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCriuleni.personal.md) 
+
+### [Criuleni.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCriuleni.secret.md)
 

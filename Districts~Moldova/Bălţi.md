@@ -40,11 +40,16 @@ markerFolder: ./Bălţi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi|Bălţi]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.public|Bălţi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.internal|Bălţi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.protect|Bălţi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.private|Bălţi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.personal|Bălţi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Bălţi.secret|Bălţi.secret]] 
+
+### [Bălţi.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBălţi.public.md) 
+
+### [Bălţi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBălţi.internal.md) 
+
+### [Bălţi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBălţi.protect.md) 
+
+### [Bălţi.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBălţi.private.md) 
+
+### [Bălţi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBălţi.personal.md) 
+
+### [Bălţi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBălţi.secret.md)
 

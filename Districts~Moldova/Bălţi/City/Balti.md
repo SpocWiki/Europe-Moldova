@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Romania/City/Balti|Balti]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Romania/City/Balti.public|Balti.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Romania/City/Balti.internal|Balti.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Romania/City/Balti.protect|Balti.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Romania/City/Balti.private|Balti.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Romania/City/Balti.personal|Balti.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Romania/City/Balti.secret|Balti.secret]] 
+
+### [Balti.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Bălţi\CityBalti.public.md) 
+
+### [Balti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Bălţi\CityBalti.internal.md) 
+
+### [Balti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Bălţi\CityBalti.protect.md) 
+
+### [Balti.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Bălţi\CityBalti.private.md) 
+
+### [Balti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Bălţi\CityBalti.personal.md) 
+
+### [Balti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Bălţi\CityBalti.secret.md)
+

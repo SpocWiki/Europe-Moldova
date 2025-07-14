@@ -40,11 +40,16 @@ markerFolder: ./Rezina/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina|Rezina]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.public|Rezina.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.internal|Rezina.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.protect|Rezina.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.private|Rezina.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.personal|Rezina.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Rezina.secret|Rezina.secret]] 
+
+### [Rezina.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaRezina.public.md) 
+
+### [Rezina.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaRezina.internal.md) 
+
+### [Rezina.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaRezina.protect.md) 
+
+### [Rezina.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaRezina.private.md) 
+
+### [Rezina.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaRezina.personal.md) 
+
+### [Rezina.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaRezina.secret.md)
 

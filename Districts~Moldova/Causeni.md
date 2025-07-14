@@ -40,11 +40,16 @@ markerFolder: ./Causeni/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni|Causeni]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni.public|Causeni.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni.internal|Causeni.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni.protect|Causeni.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni.private|Causeni.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni.personal|Causeni.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Causeni.secret|Causeni.secret]] 
+
+### [Causeni.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.public.md) 
+
+### [Causeni.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.internal.md) 
+
+### [Causeni.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.protect.md) 
+
+### [Causeni.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.private.md) 
+
+### [Causeni.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.personal.md) 
+
+### [Causeni.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.secret.md)
 

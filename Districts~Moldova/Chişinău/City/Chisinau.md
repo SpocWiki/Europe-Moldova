@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau|Chisinau]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau.public|Chisinau.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau.internal|Chisinau.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau.protect|Chisinau.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau.private|Chisinau.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau.personal|Chisinau.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/City/Chisinau.secret|Chisinau.secret]] 
+
+### [Chisinau.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Chişinău\CityChisinau.public.md) 
+
+### [Chisinau.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Chişinău\CityChisinau.internal.md) 
+
+### [Chisinau.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Chişinău\CityChisinau.protect.md) 
+
+### [Chisinau.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Chişinău\CityChisinau.private.md) 
+
+### [Chisinau.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Chişinău\CityChisinau.personal.md) 
+
+### [Chisinau.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Chişinău\CityChisinau.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Taraclia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia|Taraclia]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.public|Taraclia.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.internal|Taraclia.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.protect|Taraclia.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.private|Taraclia.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.personal|Taraclia.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Taraclia.secret|Taraclia.secret]] 
+
+### [Taraclia.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTaraclia.public.md) 
+
+### [Taraclia.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTaraclia.internal.md) 
+
+### [Taraclia.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTaraclia.protect.md) 
+
+### [Taraclia.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTaraclia.private.md) 
+
+### [Taraclia.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTaraclia.personal.md) 
+
+### [Taraclia.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTaraclia.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Bender/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender|Bender]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.public|Bender.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.internal|Bender.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.protect|Bender.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.private|Bender.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.personal|Bender.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Bender.secret|Bender.secret]] 
+
+### [Bender.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.public.md) 
+
+### [Bender.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.internal.md) 
+
+### [Bender.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.protect.md) 
+
+### [Bender.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.private.md) 
+
+### [Bender.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.personal.md) 
+
+### [Bender.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.secret.md)
 

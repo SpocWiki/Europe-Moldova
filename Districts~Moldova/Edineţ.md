@@ -40,11 +40,16 @@ markerFolder: ./Edineţ/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ|Edineţ]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.public|Edineţ.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.internal|Edineţ.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.protect|Edineţ.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.private|Edineţ.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.personal|Edineţ.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Edineţ.secret|Edineţ.secret]] 
+
+### [Edineţ.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaEdineţ.public.md) 
+
+### [Edineţ.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaEdineţ.internal.md) 
+
+### [Edineţ.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaEdineţ.protect.md) 
+
+### [Edineţ.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaEdineţ.private.md) 
+
+### [Edineţ.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaEdineţ.personal.md) 
+
+### [Edineţ.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaEdineţ.secret.md)
 

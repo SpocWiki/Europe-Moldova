@@ -40,11 +40,16 @@ markerFolder: ./Ocniţa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa|Ocniţa]] 
-- [[../../../../../../../_public/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.public|Ocniţa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.internal|Ocniţa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.protect|Ocniţa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.private|Ocniţa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.personal|Ocniţa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Europe/Europe~East/Moldova/Counties/Ocniţa.secret|Ocniţa.secret]] 
+
+### [Ocniţa.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaOcniţa.public.md) 
+
+### [Ocniţa.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaOcniţa.internal.md) 
+
+### [Ocniţa.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaOcniţa.protect.md) 
+
+### [Ocniţa.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaOcniţa.private.md) 
+
+### [Ocniţa.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaOcniţa.personal.md) 
+
+### [Ocniţa.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaOcniţa.secret.md)
 
