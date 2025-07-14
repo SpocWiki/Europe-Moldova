@@ -41,15 +41,17 @@ markerFolder: ./Comrat/
 
 ## Confidential Links & Embeds: 
 
-### [Comrat.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaComrat.public.md) 
+### [Comrat](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.md) 
 
-### [Comrat.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaComrat.internal.md) 
+### [Comrat.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.public.md) 
 
-### [Comrat.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaComrat.protect.md) 
+### [Comrat.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.internal.md) 
 
-### [Comrat.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaComrat.private.md) 
+### [Comrat.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.protect.md) 
 
-### [Comrat.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaComrat.personal.md) 
+### [Comrat.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.private.md) 
 
-### [Comrat.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaComrat.secret.md)
+### [Comrat.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.personal.md) 
+
+### [Comrat.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Comrat.secret.md)
 

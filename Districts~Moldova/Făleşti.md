@@ -41,15 +41,17 @@ markerFolder: ./Făleşti/
 
 ## Confidential Links & Embeds: 
 
-### [Făleşti.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFăleşti.public.md) 
+### [Făleşti](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.md) 
 
-### [Făleşti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFăleşti.internal.md) 
+### [Făleşti.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.public.md) 
 
-### [Făleşti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFăleşti.protect.md) 
+### [Făleşti.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.internal.md) 
 
-### [Făleşti.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFăleşti.private.md) 
+### [Făleşti.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.protect.md) 
 
-### [Făleşti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFăleşti.personal.md) 
+### [Făleşti.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.private.md) 
 
-### [Făleşti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFăleşti.secret.md)
+### [Făleşti.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.personal.md) 
+
+### [Făleşti.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.secret.md)
 

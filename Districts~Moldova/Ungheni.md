@@ -41,15 +41,17 @@ markerFolder: ./Ungheni/
 
 ## Confidential Links & Embeds: 
 
-### [Ungheni.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaUngheni.public.md) 
+### [Ungheni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.md) 
 
-### [Ungheni.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaUngheni.internal.md) 
+### [Ungheni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.public.md) 
 
-### [Ungheni.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaUngheni.protect.md) 
+### [Ungheni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.internal.md) 
 
-### [Ungheni.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaUngheni.private.md) 
+### [Ungheni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.protect.md) 
 
-### [Ungheni.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaUngheni.personal.md) 
+### [Ungheni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.private.md) 
 
-### [Ungheni.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaUngheni.secret.md)
+### [Ungheni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.personal.md) 
+
+### [Ungheni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Donduseni/
 
 ## Confidential Links & Embeds: 
 
-### [Donduseni.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaDonduseni.public.md) 
+### [Donduseni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.md) 
 
-### [Donduseni.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaDonduseni.internal.md) 
+### [Donduseni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.public.md) 
 
-### [Donduseni.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaDonduseni.protect.md) 
+### [Donduseni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.internal.md) 
 
-### [Donduseni.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaDonduseni.private.md) 
+### [Donduseni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.protect.md) 
 
-### [Donduseni.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaDonduseni.personal.md) 
+### [Donduseni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.private.md) 
 
-### [Donduseni.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaDonduseni.secret.md)
+### [Donduseni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.personal.md) 
+
+### [Donduseni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Donduseni.secret.md)
 

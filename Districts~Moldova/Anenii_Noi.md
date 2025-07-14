@@ -41,15 +41,17 @@ markerFolder: ./Anenii_Noi/
 
 ## Confidential Links & Embeds: 
 
-### [Anenii_Noi.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaAnenii_Noi.public.md) 
+### [Anenii_Noi](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.md) 
 
-### [Anenii_Noi.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaAnenii_Noi.internal.md) 
+### [Anenii_Noi.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.public.md) 
 
-### [Anenii_Noi.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaAnenii_Noi.protect.md) 
+### [Anenii_Noi.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.internal.md) 
 
-### [Anenii_Noi.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaAnenii_Noi.private.md) 
+### [Anenii_Noi.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.protect.md) 
 
-### [Anenii_Noi.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaAnenii_Noi.personal.md) 
+### [Anenii_Noi.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.private.md) 
 
-### [Anenii_Noi.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaAnenii_Noi.secret.md)
+### [Anenii_Noi.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.personal.md) 
+
+### [Anenii_Noi.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Anenii_Noi.secret.md)
 

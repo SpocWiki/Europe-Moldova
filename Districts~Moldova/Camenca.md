@@ -41,15 +41,17 @@ markerFolder: ./Camenca/
 
 ## Confidential Links & Embeds: 
 
-### [Camenca.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCamenca.public.md) 
+### [Camenca](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.md) 
 
-### [Camenca.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCamenca.internal.md) 
+### [Camenca.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.public.md) 
 
-### [Camenca.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCamenca.protect.md) 
+### [Camenca.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.internal.md) 
 
-### [Camenca.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCamenca.private.md) 
+### [Camenca.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.protect.md) 
 
-### [Camenca.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCamenca.personal.md) 
+### [Camenca.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.private.md) 
 
-### [Camenca.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCamenca.secret.md)
+### [Camenca.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.personal.md) 
+
+### [Camenca.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Camenca.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Bender/
 
 ## Confidential Links & Embeds: 
 
-### [Bender.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.public.md) 
+### [Bender](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.md) 
 
-### [Bender.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.internal.md) 
+### [Bender.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.public.md) 
 
-### [Bender.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.protect.md) 
+### [Bender.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.internal.md) 
 
-### [Bender.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.private.md) 
+### [Bender.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.protect.md) 
 
-### [Bender.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.personal.md) 
+### [Bender.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.private.md) 
 
-### [Bender.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBender.secret.md)
+### [Bender.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.personal.md) 
+
+### [Bender.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Bender.secret.md)
 

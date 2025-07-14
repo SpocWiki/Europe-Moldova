@@ -135,15 +135,17 @@ Capital :: [[Chisinau]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\Europe\Europe~East\MoldovaReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/ReadMe.secret.md)
 

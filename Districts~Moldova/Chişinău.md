@@ -41,15 +41,17 @@ markerFolder: ./Chişinău/
 
 ## Confidential Links & Embeds: 
 
-### [Chişinău.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaChişinău.public.md) 
+### [Chişinău](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.md) 
 
-### [Chişinău.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaChişinău.internal.md) 
+### [Chişinău.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.public.md) 
 
-### [Chişinău.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaChişinău.protect.md) 
+### [Chişinău.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.internal.md) 
 
-### [Chişinău.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaChişinău.private.md) 
+### [Chişinău.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.protect.md) 
 
-### [Chişinău.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaChişinău.personal.md) 
+### [Chişinău.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.private.md) 
 
-### [Chişinău.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaChişinău.secret.md)
+### [Chişinău.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.personal.md) 
+
+### [Chişinău.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saroca.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Soroca\CitySaroca.public.md) 
+### [Saroca](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.md) 
 
-### [Saroca.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Soroca\CitySaroca.internal.md) 
+### [Saroca.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.public.md) 
 
-### [Saroca.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Soroca\CitySaroca.protect.md) 
+### [Saroca.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.internal.md) 
 
-### [Saroca.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Soroca\CitySaroca.private.md) 
+### [Saroca.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.protect.md) 
 
-### [Saroca.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Soroca\CitySaroca.personal.md) 
+### [Saroca.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.private.md) 
 
-### [Saroca.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~Moldova\Soroca\CitySaroca.secret.md)
+### [Saroca.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.personal.md) 
+
+### [Saroca.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.secret.md)
 

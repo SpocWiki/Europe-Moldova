@@ -41,15 +41,17 @@ markerFolder: ./Sîngerei/
 
 ## Confidential Links & Embeds: 
 
-### [Sîngerei.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaSîngerei.public.md) 
+### [Sîngerei](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.md) 
 
-### [Sîngerei.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaSîngerei.internal.md) 
+### [Sîngerei.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.public.md) 
 
-### [Sîngerei.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaSîngerei.protect.md) 
+### [Sîngerei.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.internal.md) 
 
-### [Sîngerei.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaSîngerei.private.md) 
+### [Sîngerei.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.protect.md) 
 
-### [Sîngerei.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaSîngerei.personal.md) 
+### [Sîngerei.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.private.md) 
 
-### [Sîngerei.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaSîngerei.secret.md)
+### [Sîngerei.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.personal.md) 
+
+### [Sîngerei.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.secret.md)
 

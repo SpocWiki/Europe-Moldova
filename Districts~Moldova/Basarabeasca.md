@@ -41,15 +41,17 @@ markerFolder: ./Basarabeasca/
 
 ## Confidential Links & Embeds: 
 
-### [Basarabeasca.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBasarabeasca.public.md) 
+### [Basarabeasca](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.md) 
 
-### [Basarabeasca.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBasarabeasca.internal.md) 
+### [Basarabeasca.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.public.md) 
 
-### [Basarabeasca.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBasarabeasca.protect.md) 
+### [Basarabeasca.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.internal.md) 
 
-### [Basarabeasca.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBasarabeasca.private.md) 
+### [Basarabeasca.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.protect.md) 
 
-### [Basarabeasca.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBasarabeasca.personal.md) 
+### [Basarabeasca.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.private.md) 
 
-### [Basarabeasca.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaBasarabeasca.secret.md)
+### [Basarabeasca.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.personal.md) 
+
+### [Basarabeasca.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Basarabeasca.secret.md)
 

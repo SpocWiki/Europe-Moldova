@@ -41,15 +41,17 @@ markerFolder: ./Şoldăneşti/
 
 ## Confidential Links & Embeds: 
 
-### [Şoldăneşti.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaŞoldăneşti.public.md) 
+### [Şoldăneşti](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.md) 
 
-### [Şoldăneşti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaŞoldăneşti.internal.md) 
+### [Şoldăneşti.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.public.md) 
 
-### [Şoldăneşti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaŞoldăneşti.protect.md) 
+### [Şoldăneşti.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.internal.md) 
 
-### [Şoldăneşti.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaŞoldăneşti.private.md) 
+### [Şoldăneşti.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.protect.md) 
 
-### [Şoldăneşti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaŞoldăneşti.personal.md) 
+### [Şoldăneşti.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.private.md) 
 
-### [Şoldăneşti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaŞoldăneşti.secret.md)
+### [Şoldăneşti.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.personal.md) 
+
+### [Şoldăneşti.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Şoldăneşti.secret.md)
 

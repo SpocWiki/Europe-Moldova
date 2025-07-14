@@ -41,15 +41,17 @@ markerFolder: ./Causeni/
 
 ## Confidential Links & Embeds: 
 
-### [Causeni.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.public.md) 
+### [Causeni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.md) 
 
-### [Causeni.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.internal.md) 
+### [Causeni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.public.md) 
 
-### [Causeni.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.protect.md) 
+### [Causeni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.internal.md) 
 
-### [Causeni.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.private.md) 
+### [Causeni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.protect.md) 
 
-### [Causeni.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.personal.md) 
+### [Causeni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.private.md) 
 
-### [Causeni.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaCauseni.secret.md)
+### [Causeni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.personal.md) 
+
+### [Causeni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Causeni.secret.md)
 

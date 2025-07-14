@@ -41,15 +41,17 @@ markerFolder: ./Teleneşti/
 
 ## Confidential Links & Embeds: 
 
-### [Teleneşti.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTeleneşti.public.md) 
+### [Teleneşti](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.md) 
 
-### [Teleneşti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTeleneşti.internal.md) 
+### [Teleneşti.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.public.md) 
 
-### [Teleneşti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTeleneşti.protect.md) 
+### [Teleneşti.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.internal.md) 
 
-### [Teleneşti.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTeleneşti.private.md) 
+### [Teleneşti.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.protect.md) 
 
-### [Teleneşti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTeleneşti.personal.md) 
+### [Teleneşti.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.private.md) 
 
-### [Teleneşti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaTeleneşti.secret.md)
+### [Teleneşti.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.personal.md) 
+
+### [Teleneşti.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Teleneşti.secret.md)
 

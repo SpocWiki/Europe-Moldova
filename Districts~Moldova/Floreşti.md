@@ -41,15 +41,17 @@ markerFolder: ./Floreşti/
 
 ## Confidential Links & Embeds: 
 
-### [Floreşti.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFloreşti.public.md) 
+### [Floreşti](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.md) 
 
-### [Floreşti.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFloreşti.internal.md) 
+### [Floreşti.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.public.md) 
 
-### [Floreşti.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFloreşti.protect.md) 
+### [Floreşti.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.internal.md) 
 
-### [Floreşti.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFloreşti.private.md) 
+### [Floreşti.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.protect.md) 
 
-### [Floreşti.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFloreşti.personal.md) 
+### [Floreşti.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.private.md) 
 
-### [Floreşti.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaFloreşti.secret.md)
+### [Floreşti.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.personal.md) 
+
+### [Floreşti.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Floreşti.secret.md)
 

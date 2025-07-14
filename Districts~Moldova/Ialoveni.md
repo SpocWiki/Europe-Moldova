@@ -41,15 +41,17 @@ markerFolder: ./Ialoveni/
 
 ## Confidential Links & Embeds: 
 
-### [Ialoveni.public](/_public/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaIaloveni.public.md) 
+### [Ialoveni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.md) 
 
-### [Ialoveni.internal](/_internal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaIaloveni.internal.md) 
+### [Ialoveni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.public.md) 
 
-### [Ialoveni.protect](/_protect/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaIaloveni.protect.md) 
+### [Ialoveni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.internal.md) 
 
-### [Ialoveni.private](/_private/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaIaloveni.private.md) 
+### [Ialoveni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.protect.md) 
 
-### [Ialoveni.personal](/_personal/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaIaloveni.personal.md) 
+### [Ialoveni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.private.md) 
 
-### [Ialoveni.secret](/_secret/\Earth\Continent\Europe\Europe~East\Moldova\Districts~MoldovaIaloveni.secret.md)
+### [Ialoveni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.personal.md) 
+
+### [Ialoveni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.secret.md)
 
