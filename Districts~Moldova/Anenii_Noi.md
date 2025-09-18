@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Anenii_Noi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Anenii_Noi/
 markerFolder: ./Anenii_Noi/

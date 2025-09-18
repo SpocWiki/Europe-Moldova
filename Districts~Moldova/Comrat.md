@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Comrat
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Comrat/
 markerFolder: ./Comrat/

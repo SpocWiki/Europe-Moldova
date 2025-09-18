@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Străşeni
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Străşeni/
 markerFolder: ./Străşeni/

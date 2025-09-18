@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Stîngă_Nistrului
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stîngă_Nistrului/
 markerFolder: ./Stîngă_Nistrului/

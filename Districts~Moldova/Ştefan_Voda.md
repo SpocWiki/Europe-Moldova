@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ştefan_Voda
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ştefan_Voda/
 markerFolder: ./Ştefan_Voda/
