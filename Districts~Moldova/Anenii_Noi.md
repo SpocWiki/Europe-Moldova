@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Anenii_Noi
+  - Anenii Noi
 location:
   - 46.9
   - 29.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Anenii_Noi
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Anenii_Noi

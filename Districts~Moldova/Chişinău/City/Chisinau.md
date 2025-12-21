@@ -2,6 +2,8 @@
 aliases:
   - Chișinău
   - Kishinev
+  - Chisinau
+has_id_wikidata: Q21197
 location:
   - 47
   - 28.91667
@@ -15,7 +17,6 @@ tags:
 SpocWebEntityId: 29591
 isDeleted: false
 confidential: public
-has_id_wikidata: Q21197
 Commons_category: Chișinău
 Commons_gallery: Chișinău
 postal_code: MD-20xx
@@ -25,27 +26,27 @@ demonym:
   - chișinăuieni
   - кишинёвцы
 coordinate_location: Point(28.835277777 47.022777777)
-award_received: "[[_Standards/WikiData/WD~Order_of_Lenin,185493]]"
+award_received: '[[_Standards/WikiData/WD~Order_of_Lenin,185493]]'
 described_by_source:
-  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Enciclopedia_României,18547500]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Bâc,843343]]"
+  - '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+  - '[[_Standards/WikiData/WD~Enciclopedia_României,18547500]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Bâc,843343]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-  - "[[_Standards/WikiData/WD~municipality,15284]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Chișinău,4204632]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Chișinău,4313678]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q7976419,7976419]]"
-category_for_honorary_citizens_of_entity: "[[_Standards/WikiData/WD~Q7981030,7981030]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Chișinău,12143496]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Chișinău_Municipality,17176229]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Chișinău,21662297]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+  - '[[_Standards/WikiData/WD~municipality,15284]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Chișinău,4204632]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Chișinău,4313678]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q7976419,7976419]]'
+category_for_honorary_citizens_of_entity: '[[_Standards/WikiData/WD~Q7981030,7981030]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Chișinău,12143496]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Chișinău_Municipality,17176229]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Chișinău,21662297]]'
 UN_LOCODE: MDKIV
 Facebook_username: primariachisinaumd
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Ansamblul%20Catedralei%20%E2%80%9ENa%C8%99terea%20Domnului%E2%80%9D%203.jpg
@@ -55,27 +56,27 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Chisinau%2C%20Mo
 time_of_earliest_written_record: 1436-01-01T00:00:00Z
 inception: 1436-01-01T00:00:00Z
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Tbilisi,994]]"
-  - "[[_Standards/WikiData/WD~Vilnius,216]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC+02_00,6723]]"
-country: "[[_Standards/WikiData/WD~Moldova,217]]"
-capital_of: "[[_Standards/WikiData/WD~Moldova,217]]"
+  - '[[_Standards/WikiData/WD~Tbilisi,994]]'
+  - '[[_Standards/WikiData/WD~Vilnius,216]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
+country: '[[_Standards/WikiData/WD~Moldova,217]]'
+capital_of: '[[_Standards/WikiData/WD~Moldova,217]]'
 elevation_above_sea_level: 85
-official_language: "[[_Standards/WikiData/WD~Moldovan,36392]]"
+official_language: '[[_Standards/WikiData/WD~Moldovan,36392]]'
 area: 123
 population:
   - 639000
   - 567038
 local_dialing_code:
-  - "22"
-  - "32"
+  - 22
+  - 32
 male_population: 261122
 female_population: 305916
-CUATM_unique_identification_code: "0100"
+CUATM_unique_identification_code: 0100
 native_label: Chișinău
 official_name: Chișinău
-U_S_National_Archives_Identifier: "10045058"
-CUATM_statistical_code: "0101000"
+U_S_National_Archives_Identifier: 10045058
+CUATM_statistical_code: 0101000
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Arch%20of%20Triumph%2C%20Chisinau%2C%20Republic%20of%20Moldova%20%2851160304626%20cropped%29.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Chi%C8%99in%C4%83u%20banner.jpg
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Chi%C8%99in%C4%83u.svg
@@ -84,7 +85,7 @@ detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Kishinev%201887.j
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Moldadm%20C.png
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Montaj%20de%20imagini%20Commons%20a%20Chi%C8%99in%C4%83ului.jpg
 official_website: http://www.chisinau.md
-P8189: "987007554924305171"
+P8189: 987007554924305171
 ---
 
 # [[Chisinau]] 

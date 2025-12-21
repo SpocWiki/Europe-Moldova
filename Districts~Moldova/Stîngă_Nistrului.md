@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Stîngă_Nistrului
+  - Stîngă Nistrului
 location:
   - 47.3
   - 29.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Stîngă_Nistrului
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Stîngă_Nistrului
