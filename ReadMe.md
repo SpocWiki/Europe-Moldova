@@ -46,15 +46,15 @@ dv_ISO4217-currency_country_name: MOLDOVA (THE REPUBLIC OF)
 dv_Telephone: 373
 dv_Global: true
 dv_Global_Name: World
-dv_name: Moldova
-dv_name-en:
+dv_has_name_: Moldova
+dv_has_name_en:
   - Republic of Moldova
   - Moldova
-dv_name-es: República de Moldova
-dv_name-fr: République de Moldova
-dv_name-cn: 摩尔多瓦共和国
-dv_name-ar: جمهورية مولدوفا
-dv_name-ru: Республика Молдова
+dv_has_name_es: República de Moldova
+dv_has_name_fr: République de Moldova
+dv_has_name_cn: 摩尔多瓦共和国
+dv_has_name_ar: جمهورية مولدوفا
+dv_has_name_ru: Республика Молдова
 dv_CLDR_display_name: Moldova
 dv_UNTERM_English: Republic of Moldova (the)
 dv_UNTERM_English_Formal: the Republic of Moldova
@@ -91,7 +91,7 @@ dv_Land_Locked_Developing_Countries: x
 dv_ISO3166-1-numeric: 498
 dv_ISO2: MD
 dv_ISO3: MDA
-dv_name-de: Moldawien, Republic of
+dv_has_name_de: Moldawien, Republic of
 dv_Area-Total: 33700
 dv_Area-Land: 32970
 dv_Continent: "[[../../../Europe]]"
@@ -117,12 +117,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Republic of Moldova ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Republic of Moldova ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -181,8 +181,8 @@ geojsonFolder: .//
 markerFolder: .//
 ```
 
-[name-en::Moldova] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Moldova] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

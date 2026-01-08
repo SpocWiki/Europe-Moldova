@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.91667
 dv_has_place_latitude: 47
-dv_name: Chisinau
+dv_has_name_: Chisinau
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Chișinău,21197|WD~Chișinău,21197]]"

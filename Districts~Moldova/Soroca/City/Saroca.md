@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.3
 dv_has_place_latitude: 48.17
-dv_name: Saroca
+dv_has_name_: Saroca
 dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  

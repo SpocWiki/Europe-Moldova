@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 27.92
 dv_has_place_latitude: 47.77
-dv_name: Balti
+dv_has_name_: Balti
 dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  
