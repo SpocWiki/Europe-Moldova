@@ -40,17 +40,17 @@ markerFolder: ./Grigoriopol/
 
 ## Confidential Links & Embeds: 
 
-### [Grigoriopol](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol|Grigoriopol]] 
 
-### [Grigoriopol.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.public|Grigoriopol.public]] 
 
-### [Grigoriopol.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.internal|Grigoriopol.internal]] 
 
-### [Grigoriopol.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.protect|Grigoriopol.protect]] 
 
-### [Grigoriopol.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.private|Grigoriopol.private]] 
 
-### [Grigoriopol.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.personal|Grigoriopol.personal]] 
 
-### [Grigoriopol.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Grigoriopol.secret|Grigoriopol.secret]] 
 

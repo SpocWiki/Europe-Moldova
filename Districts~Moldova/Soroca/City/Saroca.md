@@ -14,14 +14,19 @@ tags:
 SpocWebEntityId: 33959
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.3
+dv_has_place_latitude: 48.17
+dv_name: Saroca
+dv_Country: "[[../../../../Romania]]"
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.3] 
-[has_place_latitude::48.17] 
-[name::Saroca] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[Romania]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +43,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saroca](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca|Saroca]] 
 
-### [Saroca.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.public|Saroca.public]] 
 
-### [Saroca.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.internal|Saroca.internal]] 
 
-### [Saroca.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.protect|Saroca.protect]] 
 
-### [Saroca.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.private|Saroca.private]] 
 
-### [Saroca.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.personal|Saroca.personal]] 
 
-### [Saroca.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca/City/Saroca.secret|Saroca.secret]] 
 

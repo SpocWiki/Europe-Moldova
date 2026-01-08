@@ -40,17 +40,17 @@ markerFolder: ./Cantemir/
 
 ## Confidential Links & Embeds: 
 
-### [Cantemir](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir|Cantemir]] 
 
-### [Cantemir.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.public|Cantemir.public]] 
 
-### [Cantemir.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.internal|Cantemir.internal]] 
 
-### [Cantemir.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.protect|Cantemir.protect]] 
 
-### [Cantemir.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.private|Cantemir.private]] 
 
-### [Cantemir.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.personal|Cantemir.personal]] 
 
-### [Cantemir.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cantemir.secret|Cantemir.secret]] 
 

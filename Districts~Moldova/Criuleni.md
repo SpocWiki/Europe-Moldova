@@ -40,17 +40,17 @@ markerFolder: ./Criuleni/
 
 ## Confidential Links & Embeds: 
 
-### [Criuleni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni|Criuleni]] 
 
-### [Criuleni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.public|Criuleni.public]] 
 
-### [Criuleni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.internal|Criuleni.internal]] 
 
-### [Criuleni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.protect|Criuleni.protect]] 
 
-### [Criuleni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.private|Criuleni.private]] 
 
-### [Criuleni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.personal|Criuleni.personal]] 
 
-### [Criuleni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Criuleni.secret|Criuleni.secret]] 
 

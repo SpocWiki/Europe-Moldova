@@ -40,17 +40,17 @@ markerFolder: ./Făleşti/
 
 ## Confidential Links & Embeds: 
 
-### [Făleşti](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti|Făleşti]] 
 
-### [Făleşti.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.public|Făleşti.public]] 
 
-### [Făleşti.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.internal|Făleşti.internal]] 
 
-### [Făleşti.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.protect|Făleşti.protect]] 
 
-### [Făleşti.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.private|Făleşti.private]] 
 
-### [Făleşti.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.personal|Făleşti.personal]] 
 
-### [Făleşti.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Făleşti.secret|Făleşti.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Briceni/
 
 ## Confidential Links & Embeds: 
 
-### [Briceni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni|Briceni]] 
 
-### [Briceni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.public|Briceni.public]] 
 
-### [Briceni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.internal|Briceni.internal]] 
 
-### [Briceni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.protect|Briceni.protect]] 
 
-### [Briceni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.private|Briceni.private]] 
 
-### [Briceni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.personal|Briceni.personal]] 
 
-### [Briceni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Briceni.secret|Briceni.secret]] 
 

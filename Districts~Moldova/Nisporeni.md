@@ -40,17 +40,17 @@ markerFolder: ./Nisporeni/
 
 ## Confidential Links & Embeds: 
 
-### [Nisporeni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni|Nisporeni]] 
 
-### [Nisporeni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.public|Nisporeni.public]] 
 
-### [Nisporeni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.internal|Nisporeni.internal]] 
 
-### [Nisporeni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.protect|Nisporeni.protect]] 
 
-### [Nisporeni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.private|Nisporeni.private]] 
 
-### [Nisporeni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.personal|Nisporeni.personal]] 
 
-### [Nisporeni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Nisporeni.secret|Nisporeni.secret]] 
 

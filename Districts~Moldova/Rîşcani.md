@@ -40,17 +40,17 @@ markerFolder: ./Rîşcani/
 
 ## Confidential Links & Embeds: 
 
-### [Rîşcani](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani|Rîşcani]] 
 
-### [Rîşcani.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.public|Rîşcani.public]] 
 
-### [Rîşcani.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.internal|Rîşcani.internal]] 
 
-### [Rîşcani.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.protect|Rîşcani.protect]] 
 
-### [Rîşcani.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.private|Rîşcani.private]] 
 
-### [Rîşcani.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.personal|Rîşcani.personal]] 
 
-### [Rîşcani.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rîşcani.secret|Rîşcani.secret]] 
 

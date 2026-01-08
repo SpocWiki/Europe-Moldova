@@ -40,17 +40,17 @@ markerFolder: ./Sîngerei/
 
 ## Confidential Links & Embeds: 
 
-### [Sîngerei](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei|Sîngerei]] 
 
-### [Sîngerei.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.public|Sîngerei.public]] 
 
-### [Sîngerei.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.internal|Sîngerei.internal]] 
 
-### [Sîngerei.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.protect|Sîngerei.protect]] 
 
-### [Sîngerei.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.private|Sîngerei.private]] 
 
-### [Sîngerei.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.personal|Sîngerei.personal]] 
 
-### [Sîngerei.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Sîngerei.secret|Sîngerei.secret]] 
 

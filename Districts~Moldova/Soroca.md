@@ -40,17 +40,17 @@ markerFolder: ./Soroca/
 
 ## Confidential Links & Embeds: 
 
-### [Soroca](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca|Soroca]] 
 
-### [Soroca.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.public|Soroca.public]] 
 
-### [Soroca.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.internal|Soroca.internal]] 
 
-### [Soroca.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.protect|Soroca.protect]] 
 
-### [Soroca.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.private|Soroca.private]] 
 
-### [Soroca.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.personal|Soroca.personal]] 
 
-### [Soroca.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Soroca.secret|Soroca.secret]] 
 

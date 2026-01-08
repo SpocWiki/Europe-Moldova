@@ -40,17 +40,17 @@ markerFolder: ./Drochia/
 
 ## Confidential Links & Embeds: 
 
-### [Drochia](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia|Drochia]] 
 
-### [Drochia.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.public|Drochia.public]] 
 
-### [Drochia.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.internal|Drochia.internal]] 
 
-### [Drochia.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.protect|Drochia.protect]] 
 
-### [Drochia.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.private|Drochia.private]] 
 
-### [Drochia.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.personal|Drochia.personal]] 
 
-### [Drochia.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Drochia.secret|Drochia.secret]] 
 

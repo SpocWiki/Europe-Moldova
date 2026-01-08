@@ -40,17 +40,17 @@ markerFolder: ./Cimişlia/
 
 ## Confidential Links & Embeds: 
 
-### [Cimişlia](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia|Cimişlia]] 
 
-### [Cimişlia.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.public|Cimişlia.public]] 
 
-### [Cimişlia.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.internal|Cimişlia.internal]] 
 
-### [Cimişlia.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.protect|Cimişlia.protect]] 
 
-### [Cimişlia.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.private|Cimişlia.private]] 
 
-### [Cimişlia.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.personal|Cimişlia.personal]] 
 
-### [Cimişlia.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cimişlia.secret|Cimişlia.secret]] 
 

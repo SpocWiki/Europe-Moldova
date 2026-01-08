@@ -40,17 +40,17 @@ markerFolder: ./Ialoveni/
 
 ## Confidential Links & Embeds: 
 
-### [Ialoveni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni|Ialoveni]] 
 
-### [Ialoveni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.public|Ialoveni.public]] 
 
-### [Ialoveni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.internal|Ialoveni.internal]] 
 
-### [Ialoveni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.protect|Ialoveni.protect]] 
 
-### [Ialoveni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.private|Ialoveni.private]] 
 
-### [Ialoveni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.personal|Ialoveni.personal]] 
 
-### [Ialoveni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ialoveni.secret|Ialoveni.secret]] 
 

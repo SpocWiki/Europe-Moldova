@@ -40,17 +40,17 @@ markerFolder: ./Cahul/
 
 ## Confidential Links & Embeds: 
 
-### [Cahul](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul|Cahul]] 
 
-### [Cahul.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.public|Cahul.public]] 
 
-### [Cahul.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.internal|Cahul.internal]] 
 
-### [Cahul.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.protect|Cahul.protect]] 
 
-### [Cahul.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.private|Cahul.private]] 
 
-### [Cahul.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.personal|Cahul.personal]] 
 
-### [Cahul.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Cahul.secret|Cahul.secret]] 
 

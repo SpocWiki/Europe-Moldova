@@ -1,4 +1,13 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: 28.91667
+dv_has_place_latitude: 47
+dv_name: Chisinau
+dv_Unknown: 32
+dv_is_:
+  same_as: "[[../../../../../../../../WikiData/WD~Chișinău,21197|WD~Chișinău,21197]]"
+dv_is_same_as: "[[../../../../../../../../WikiData/WD~Chișinău,21197|WD~Chișinău,21197]]"
+
 has_time_started: 1436-01-01 
 aliases:
   - Chișinău
@@ -92,17 +101,17 @@ P8189: 987007554924305171
 # [[Chisinau]] 
 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::28.91667] 
-[has_place_latitude::47] 
-[name::Chisinau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[Moldova]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Chișinău,21197|WD~Chișinău,21197]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -146,20 +155,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Chi%C8%99in%C4%83u) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### [Chisinau](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau|Chisinau]] 
 
-### [Chisinau.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.public|Chisinau.public]] 
 
-### [Chisinau.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.internal|Chisinau.internal]] 
 
-### [Chisinau.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.protect|Chisinau.protect]] 
 
-### [Chisinau.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.private|Chisinau.private]] 
 
-### [Chisinau.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.personal|Chisinau.personal]] 
 
-### [Chisinau.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău/City/Chisinau.secret|Chisinau.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Străşeni/
 
 ## Confidential Links & Embeds: 
 
-### [Străşeni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni|Străşeni]] 
 
-### [Străşeni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.public|Străşeni.public]] 
 
-### [Străşeni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.internal|Străşeni.internal]] 
 
-### [Străşeni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.protect|Străşeni.protect]] 
 
-### [Străşeni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.private|Străşeni.private]] 
 
-### [Străşeni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.personal|Străşeni.personal]] 
 
-### [Străşeni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Străşeni.secret|Străşeni.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Orhei/
 
 ## Confidential Links & Embeds: 
 
-### [Orhei](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei|Orhei]] 
 
-### [Orhei.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.public|Orhei.public]] 
 
-### [Orhei.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.internal|Orhei.internal]] 
 
-### [Orhei.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.protect|Orhei.protect]] 
 
-### [Orhei.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.private|Orhei.private]] 
 
-### [Orhei.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.personal|Orhei.personal]] 
 
-### [Orhei.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Orhei.secret|Orhei.secret]] 
 

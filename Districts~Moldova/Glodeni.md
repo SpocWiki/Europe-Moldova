@@ -40,17 +40,17 @@ markerFolder: ./Glodeni/
 
 ## Confidential Links & Embeds: 
 
-### [Glodeni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni|Glodeni]] 
 
-### [Glodeni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.public|Glodeni.public]] 
 
-### [Glodeni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.internal|Glodeni.internal]] 
 
-### [Glodeni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.protect|Glodeni.protect]] 
 
-### [Glodeni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.private|Glodeni.private]] 
 
-### [Glodeni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.personal|Glodeni.personal]] 
 
-### [Glodeni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Glodeni.secret|Glodeni.secret]] 
 

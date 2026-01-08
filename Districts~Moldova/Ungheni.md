@@ -40,17 +40,17 @@ markerFolder: ./Ungheni/
 
 ## Confidential Links & Embeds: 
 
-### [Ungheni](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni|Ungheni]] 
 
-### [Ungheni.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.public|Ungheni.public]] 
 
-### [Ungheni.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.internal|Ungheni.internal]] 
 
-### [Ungheni.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.protect|Ungheni.protect]] 
 
-### [Ungheni.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.private|Ungheni.private]] 
 
-### [Ungheni.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.personal|Ungheni.personal]] 
 
-### [Ungheni.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ungheni.secret|Ungheni.secret]] 
 

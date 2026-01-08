@@ -40,17 +40,17 @@ markerFolder: ./Rezina/
 
 ## Confidential Links & Embeds: 
 
-### [Rezina](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina|Rezina]] 
 
-### [Rezina.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.public|Rezina.public]] 
 
-### [Rezina.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.internal|Rezina.internal]] 
 
-### [Rezina.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.protect|Rezina.protect]] 
 
-### [Rezina.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.private|Rezina.private]] 
 
-### [Rezina.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.personal|Rezina.personal]] 
 
-### [Rezina.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Rezina.secret|Rezina.secret]] 
 

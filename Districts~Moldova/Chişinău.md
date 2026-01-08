@@ -40,17 +40,17 @@ markerFolder: ./Chişinău/
 
 ## Confidential Links & Embeds: 
 
-### [Chişinău](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău|Chişinău]] 
 
-### [Chişinău.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.public|Chişinău.public]] 
 
-### [Chişinău.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.internal|Chişinău.internal]] 
 
-### [Chişinău.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.protect|Chişinău.protect]] 
 
-### [Chişinău.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.private|Chişinău.private]] 
 
-### [Chişinău.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.personal|Chişinău.personal]] 
 
-### [Chişinău.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Chişinău.secret|Chişinău.secret]] 
 

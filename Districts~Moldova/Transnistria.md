@@ -40,17 +40,17 @@ markerFolder: ./Transnistria/
 
 ## Confidential Links & Embeds: 
 
-### [Transnistria](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria|Transnistria]] 
 
-### [Transnistria.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.public|Transnistria.public]] 
 
-### [Transnistria.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.internal|Transnistria.internal]] 
 
-### [Transnistria.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.protect|Transnistria.protect]] 
 
-### [Transnistria.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.private|Transnistria.private]] 
 
-### [Transnistria.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.personal|Transnistria.personal]] 
 
-### [Transnistria.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Transnistria.secret|Transnistria.secret]] 
 

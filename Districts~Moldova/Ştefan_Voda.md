@@ -41,17 +41,17 @@ markerFolder: ./Ştefan_Voda/
 
 ## Confidential Links & Embeds: 
 
-### [Ştefan_Voda](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda|Ştefan_Voda]] 
 
-### [Ştefan_Voda.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.public|Ştefan_Voda.public]] 
 
-### [Ştefan_Voda.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.internal|Ştefan_Voda.internal]] 
 
-### [Ştefan_Voda.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.protect|Ştefan_Voda.protect]] 
 
-### [Ştefan_Voda.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.private|Ştefan_Voda.private]] 
 
-### [Ştefan_Voda.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.personal|Ştefan_Voda.personal]] 
 
-### [Ştefan_Voda.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Ştefan_Voda.secret|Ştefan_Voda.secret]] 
 

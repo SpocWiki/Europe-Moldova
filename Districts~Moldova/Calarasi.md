@@ -40,17 +40,17 @@ markerFolder: ./Calarasi/
 
 ## Confidential Links & Embeds: 
 
-### [Calarasi](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi|Calarasi]] 
 
-### [Calarasi.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.public|Calarasi.public]] 
 
-### [Calarasi.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.internal|Calarasi.internal]] 
 
-### [Calarasi.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.protect|Calarasi.protect]] 
 
-### [Calarasi.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.private|Calarasi.private]] 
 
-### [Calarasi.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.personal|Calarasi.personal]] 
 
-### [Calarasi.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Calarasi.secret|Calarasi.secret]] 
 

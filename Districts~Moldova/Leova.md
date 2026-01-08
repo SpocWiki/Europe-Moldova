@@ -40,17 +40,17 @@ markerFolder: ./Leova/
 
 ## Confidential Links & Embeds: 
 
-### [Leova](/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova|Leova]] 
 
-### [Leova.public](/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.public|Leova.public]] 
 
-### [Leova.internal](/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.internal|Leova.internal]] 
 
-### [Leova.protect](/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.protect|Leova.protect]] 
 
-### [Leova.private](/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.private|Leova.private]] 
 
-### [Leova.personal](/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.personal|Leova.personal]] 
 
-### [Leova.secret](/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Europe/Europe~East/Moldova/Districts~Moldova/Leova.secret|Leova.secret]] 
 
