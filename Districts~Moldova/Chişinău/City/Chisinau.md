@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: 28.91667
 dv_has_place_latitude: 47
-dv_has_name_: Chisinau
+dv_has_name: Chisinau
 dv_Unknown: 32
 dv_is_:
   same_as: "[[../../../../../../../../WikiData/WD~Chișinău,21197|WD~Chișinău,21197]]"
@@ -104,7 +104,7 @@ P8189: 987007554924305171
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[Moldova]]  
 [StateId::] 
