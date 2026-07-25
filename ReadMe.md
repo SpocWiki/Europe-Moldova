@@ -29,7 +29,7 @@ dv_UNTERM_Chinese_Formal: 摩尔多瓦共和国
 dv_UNTERM_French_Formal: la République de Moldova
 dv_UNTERM_Russian: Республика Молдова
 dv_UNTERM_Russian_Formal: Республика Молдова
-dv_Region_Name: '[[../../Europe|Europe]]'
+dv_Region_Name: '[[../../../Europe|Europe]]'
 dv_Intermediate_Region_Name: '[[Moldova]]'
 dv_Sub-region_Name: '[[Eastern Europe]]'
 dv_Region: 150
@@ -54,7 +54,7 @@ dv_ISO2: MD
 dv_ISO3: MDA
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Moldova,217|WD~Moldova,217]]'
+  - '[[../../../../../WikiData/WD~Moldova,217|WD~Moldova,217]]'
   - '[[/_Standards/Earth/Continent/Europe/Europe~East/Moldova|Moldova]]'
   - '[[/_public/Earth/Continent/Europe/Europe~East/Moldova.public|Moldova.public]]'
   - '[[/_internal/Earth/Continent/Europe/Europe~East/Moldova.internal|Moldova.internal]]'
@@ -373,16 +373,16 @@ dv_has_:
 dv_has_name_de: Moldawien, Republic of
 dv_Area-Total: 33700
 dv_Area-Land: 32970
-dv_has_place_continent: '[[../../Europe|Europe]]'
+dv_has_place_continent: '[[../../../Europe|Europe]]'
 dv_VehicleCode: MD
-dv_Capital: '[[Moldova/Districts~Moldova/Chişinău/City/Chisinau|Chisinau]]'
+dv_Capital: '[[Districts~Moldova/Chişinău/City/Chisinau|Chisinau]]'
 dv_Alcohol-l: 18.2
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 28.9167
 dv_has_place_latitude: 47
 dv_developed_developing_countries: Developed
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Moldova,217|WD~Moldova,217]]'
+- '[[../../../../../WikiData/WD~Moldova,217|WD~Moldova,217]]'
 - '[[/_Standards/Earth/Continent/Europe/Europe~East/Moldova|Moldova]]'
 - '[[/_public/Earth/Continent/Europe/Europe~East/Moldova.public|Moldova.public]]'
 - '[[/_internal/Earth/Continent/Europe/Europe~East/Moldova.internal|Moldova.internal]]'
@@ -570,7 +570,7 @@ Languages:
 - tr
 icon: flag-md
 member_of:
-- '[[../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
+- '[[../../../../../WikiData/WD~Organization_for_Security_and_Co-operation_in_Europe,81299|WD~Organization_for_Security_and_Co-operation_in_Europe,81299]]'
 - '[[/_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
 - '[[/_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
 - '[[/_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
@@ -647,7 +647,7 @@ office_held_by_head_of_state: '[[/_Standards/WikiData/WD~President_of_Moldova,31
 history_of_topic: '[[/_Standards/WikiData/WD~history_of_Moldova,528560|WD~history_of_Moldova,528560]]'
 legislative_body: '[[/_Standards/WikiData/WD~Parliament_of_the_Republic_of_Moldova,555809|WD~Parliament_of_the_Republic_of_Moldova,555809]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[/_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 economy_of_topic: '[[/_Standards/WikiData/WD~economy_of_Moldova,975172|WD~economy_of_Moldova,975172]]'
 electrical_plug_type:
@@ -956,7 +956,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Moldova/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -976,7 +976,7 @@ defaultZoom: 7
 
 ```leaflet
 id: Moldova_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -1002,7 +1002,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Moldova.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Moldova.mp3|Anthem-Moldova.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Moldova.mp3|Anthem-Moldova.mp3]]
 ![[Flag_of_Moldova.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 [Language-Id::]
